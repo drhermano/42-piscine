@@ -1,2 +1,2 @@
-# 42-piscine
-My 42 piscine journey
+# 42
+My 42 journey
