@@ -3,6 +3,17 @@
 This repository holds everything I wrote during the 42 São Paulo Piscine: daily C modules, shell scripting assignments, weekend Rush projects, and my personal exam-prep practice files. It's not a polished library, it's a record of the learning curve.
 
 ---
+## 🚀 About 42
+
+42 is a project-based, peer-to-peer programming school with:
+
+- No teachers
+- No lectures
+- No traditional grading system
+
+Learning happens through building, failing, debugging, and evaluating others' work. Every project here has gone through that process.
+
+---
 
 ## Structure
 
@@ -14,7 +25,7 @@ This repository holds everything I wrote during the 42 São Paulo Piscine: daily
 ├── rush00         # Weekend Rush 00
 ├── rush01         # Weekend Rush 01 — Skyscraper puzzle
 ├── rush02         # Weekend Rush 02 — Number-to-words converter
-├── practice/      # Personal exam practice (exam02 & exam03)
+└── practice/      # Personal exam practice (exam02 & exam03)
 ```
 
 ---
