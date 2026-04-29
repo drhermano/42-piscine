@@ -1,6 +1,6 @@
 # 42 Piscine — drocha-h
 
-This repository holds everything I wrote during the 42 São Paulo Piscine: daily C modules, shell scripting assignments, weekend Rush projects, and my personal exam-prep practice files. It's not a polished library — it's a record of the learning curve, including the rough edges.
+This repository holds everything I wrote during the 42 São Paulo Piscine: daily C modules, shell scripting assignments, weekend Rush projects, and my personal exam-prep practice files. It's not a polished library — it's a record of the learning curve.
 
 ---
 
