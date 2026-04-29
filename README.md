@@ -1,6 +1,6 @@
 # 42 Piscine — drocha-h
 
-This repository holds everything I wrote during the 42 São Paulo Piscine: daily C modules, shell scripting assignments, weekend Rush projects, and my personal exam-prep practice files. It's not a polished library — it's a record of the learning curve.
+This repository holds everything I wrote during the 42 São Paulo Piscine: daily C modules, shell scripting assignments, weekend Rush projects, and my personal exam-prep practice files. It's not a polished library, it's a record of the learning curve.
 
 ---
 
@@ -15,7 +15,6 @@ This repository holds everything I wrote during the 42 São Paulo Piscine: daily
 ├── rush01         # Weekend Rush 01 — Skyscraper puzzle
 ├── rush02         # Weekend Rush 02 — Number-to-words converter
 ├── practice/      # Personal exam practice (exam02 & exam03)
-└── eu/            # Signed ethics agreement (42 code of conduct)
 ```
 
 ---
@@ -147,8 +146,6 @@ Higher-difficulty exercises involving `malloc`, string transformations, and more
 ## Notes
 
 All C code was written to comply with the **42 Norm**: functions capped at 25 lines, no more than 4 variables per function, no `for` loops, no `printf`, no ternary operators. It's a constraint that teaches you to think carefully about how you structure logic before you start typing.
-
-The `eu/aceito.txt` file is the signed ethics agreement — a commitment to the school's values and rules. It felt like a good thing to keep in the repo as a reminder of what the Piscine is actually about.
 
 ---
 
